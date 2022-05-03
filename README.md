@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity, bootstrap, flask**
 
-- 👯 I’m looking to collaborate on **cryptocurrency projects**
+- 👯 I’m looking to collaborate on **cryptocurrency and financial projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alejandrovelez243](https://github.com/alejandrovelez243)
 
