@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro Velez</h1>
 <h3 align="center">I'm passionated full stack developer from colombia</h3>
 
-- 🔭 I’m currently working on **Intertec international**
+- 🔭 I’m currently working on **Team international**
 
-- 🌱 I’m currently learning **Solidity, bootstrap, flask**
-
-- 👯 I’m looking to collaborate on **cryptocurrency and financial projects**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alejandrovelez243](https://github.com/alejandrovelez243)
 
